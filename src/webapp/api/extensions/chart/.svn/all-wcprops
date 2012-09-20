@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2024/exhibit/trunk/src/webapp/api/extensions/chart
+END
+chart-extension-bundle-debug.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2024/exhibit/trunk/src/webapp/api/extensions/chart/chart-extension-bundle-debug.js
+END
+chart-extension-bundle.css
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1748/exhibit/trunk/src/webapp/api/extensions/chart/chart-extension-bundle.css
+END
+compile-prolog.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2024/exhibit/trunk/src/webapp/api/extensions/chart/compile-prolog.js
+END
+chart-extension.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2024/exhibit/trunk/src/webapp/api/extensions/chart/chart-extension.js
+END
+chart-extension-bundle.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1748/exhibit/trunk/src/webapp/api/extensions/chart/chart-extension-bundle.js
+END

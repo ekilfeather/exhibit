@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2024/exhibit/trunk/src/webapp/api/extensions/freebase
+END
+freebase-extension-bundle-debug.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2024/exhibit/trunk/src/webapp/api/extensions/freebase/freebase-extension-bundle-debug.js
+END
+compile-prolog.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2024/exhibit/trunk/src/webapp/api/extensions/freebase/compile-prolog.js
+END
+freebase-extension-bundle.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2024/exhibit/trunk/src/webapp/api/extensions/freebase/freebase-extension-bundle.js
+END
+freebase-extension.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2024/exhibit/trunk/src/webapp/api/extensions/freebase/freebase-extension.js
+END

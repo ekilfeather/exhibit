@@ -1,0 +1,34 @@
+10
+
+dir
+2256
+https://simile-widgets.googlecode.com/svn/ajax/trunk/src/webapp
+https://simile-widgets.googlecode.com/svn
+
+
+
+2011-12-29T20:53:18.372299Z
+2234
+david.karger
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+579c892a-5248-0410-a714-2bcf037eb5bf
+
+api
+dir
+
+site
+dir
+

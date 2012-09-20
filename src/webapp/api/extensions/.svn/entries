@@ -1,0 +1,55 @@
+10
+
+dir
+2256
+http://simile-widgets.googlecode.com/svn/exhibit/trunk/src/webapp/api/extensions
+http://simile-widgets.googlecode.com/svn
+
+
+
+2012-03-05T19:41:22.520401Z
+2256
+ryanlee@csail.mit.edu
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+579c892a-5248-0410-a714-2bcf037eb5bf
+
+calendar
+dir
+
+chart
+dir
+
+curate
+dir
+
+data-editor
+dir
+
+editing
+dir
+
+freebase
+dir
+
+map
+dir
+
+time
+dir
+
+timeplot
+dir
+

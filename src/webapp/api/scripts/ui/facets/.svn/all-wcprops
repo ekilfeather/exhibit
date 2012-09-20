@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2244/exhibit/trunk/src/webapp/api/scripts/ui/facets
+END
+numeric-range-facet.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2115/exhibit/trunk/src/webapp/api/scripts/ui/facets/numeric-range-facet.js
+END
+image-facet.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1605/exhibit/trunk/src/webapp/api/scripts/ui/facets/image-facet.js
+END
+hierarchical-facet.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2244/exhibit/trunk/src/webapp/api/scripts/ui/facets/hierarchical-facet.js
+END
+text-search-facet.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2115/exhibit/trunk/src/webapp/api/scripts/ui/facets/text-search-facet.js
+END
+slider.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2169/exhibit/trunk/src/webapp/api/scripts/ui/facets/slider.js
+END
+cloud-facet.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2115/exhibit/trunk/src/webapp/api/scripts/ui/facets/cloud-facet.js
+END
+slider-facet.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2169/exhibit/trunk/src/webapp/api/scripts/ui/facets/slider-facet.js
+END
+list-facet.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2115/exhibit/trunk/src/webapp/api/scripts/ui/facets/list-facet.js
+END
+alpha-range-facet.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1698/exhibit/trunk/src/webapp/api/scripts/ui/facets/alpha-range-facet.js
+END

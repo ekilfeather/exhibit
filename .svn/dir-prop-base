@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 5
+logs
+
+K 13
+svn:externals
+V 58
+lib http://simile-widgets.googlecode.com/svn/tools/jetty/
+
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2256/exhibit/trunk
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1255/exhibit/trunk/README.txt
+END
+run.bat
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1209/exhibit/trunk/run.bat
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1209/exhibit/trunk/LICENSE.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2178/exhibit/trunk/build.xml
+END
+jetty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2024/exhibit/trunk/jetty.xml
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1209/exhibit/trunk/run
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1259/exhibit/trunk/.project
+END
+RELEASE_NOTES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2047/exhibit/trunk/RELEASE_NOTES.txt
+END

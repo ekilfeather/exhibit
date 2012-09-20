@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2247/exhibit/trunk/src/webapp/api/extensions/data-editor/scripts
+END
+number-field.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2247/exhibit/trunk/src/webapp/api/extensions/data-editor/scripts/number-field.js
+END
+jquery-ui-1.8.16.custom.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2177/exhibit/trunk/src/webapp/api/extensions/data-editor/scripts/jquery-ui-1.8.16.custom.min.js
+END
+data-editor.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2247/exhibit/trunk/src/webapp/api/extensions/data-editor/scripts/data-editor.js
+END
+enum-field.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2247/exhibit/trunk/src/webapp/api/extensions/data-editor/scripts/enum-field.js
+END
+editor.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2247/exhibit/trunk/src/webapp/api/extensions/data-editor/scripts/editor.js
+END
+list-field.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2247/exhibit/trunk/src/webapp/api/extensions/data-editor/scripts/list-field.js
+END
+text-field.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2247/exhibit/trunk/src/webapp/api/extensions/data-editor/scripts/text-field.js
+END
+ticklist-field.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2247/exhibit/trunk/src/webapp/api/extensions/data-editor/scripts/ticklist-field.js
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2024/exhibit/trunk/src/webapp/api/extensions/curate/scripts
+END
+submission-backend.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1748/exhibit/trunk/src/webapp/api/extensions/curate/scripts/submission-backend.js
+END
+item-creator.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1748/exhibit/trunk/src/webapp/api/extensions/curate/scripts/item-creator.js
+END
+curate-view.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1748/exhibit/trunk/src/webapp/api/extensions/curate/scripts/curate-view.js
+END
+submission-widgets.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1748/exhibit/trunk/src/webapp/api/extensions/curate/scripts/submission-widgets.js
+END
+scraper.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1748/exhibit/trunk/src/webapp/api/extensions/curate/scripts/scraper.js
+END
+change-list.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2024/exhibit/trunk/src/webapp/api/extensions/curate/scripts/change-list.js
+END

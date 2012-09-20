@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2120/exhibit/trunk/src/webapp/api/locales/en
+END
+exhibit-en-bundle.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2120/exhibit/trunk/src/webapp/api/locales/en/exhibit-en-bundle.js
+END
+exhibit-no-bundle.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2107/exhibit/trunk/src/webapp/api/locales/en/exhibit-no-bundle.js
+END
+locale.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2118/exhibit/trunk/src/webapp/api/locales/en/locale.js
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2247/exhibit/trunk/src/webapp/api/extensions/data-editor
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2247/exhibit/trunk/src/webapp/api/extensions/data-editor/README.txt
+END
+data-editor-extension-bundle.css
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2247/exhibit/trunk/src/webapp/api/extensions/data-editor/data-editor-extension-bundle.css
+END
+data-editor-extension-bundle-debug.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2247/exhibit/trunk/src/webapp/api/extensions/data-editor/data-editor-extension-bundle-debug.js
+END
+data-editor-extension.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2240/exhibit/trunk/src/webapp/api/extensions/data-editor/data-editor-extension.js
+END
+data-editor-extension-bundle.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2247/exhibit/trunk/src/webapp/api/extensions/data-editor/data-editor-extension-bundle.js
+END

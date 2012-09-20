@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2256/exhibit/trunk/src/webapp
+END
+doap.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1840/exhibit/trunk/src/webapp/doap.rdf
+END
+index-script.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1867/exhibit/trunk/src/webapp/index-script.js
+END
+index-styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1867/exhibit/trunk/src/webapp/index-styles.css
+END
+styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1867/exhibit/trunk/src/webapp/styles.css
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2158/exhibit/trunk/src/webapp/index.html
+END

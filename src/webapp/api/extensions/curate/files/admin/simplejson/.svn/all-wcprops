@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1748/exhibit/trunk/src/webapp/api/extensions/curate/files/admin/simplejson
+END
+decoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1748/exhibit/trunk/src/webapp/api/extensions/curate/files/admin/simplejson/decoder.py
+END
+_speedups.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1748/exhibit/trunk/src/webapp/api/extensions/curate/files/admin/simplejson/_speedups.c
+END
+jsonfilter.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1748/exhibit/trunk/src/webapp/api/extensions/curate/files/admin/simplejson/jsonfilter.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1748/exhibit/trunk/src/webapp/api/extensions/curate/files/admin/simplejson/__init__.py
+END
+scanner.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1748/exhibit/trunk/src/webapp/api/extensions/curate/files/admin/simplejson/scanner.py
+END
+encoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1748/exhibit/trunk/src/webapp/api/extensions/curate/files/admin/simplejson/encoder.py
+END

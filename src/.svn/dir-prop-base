@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 70
+ajax https://simile-widgets.googlecode.com/svn/ajax/trunk/src/webapp/
+
+END

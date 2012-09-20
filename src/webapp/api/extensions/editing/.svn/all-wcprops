@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2024/exhibit/trunk/src/webapp/api/extensions/editing
+END
+editing-extension-bundle.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2024/exhibit/trunk/src/webapp/api/extensions/editing/editing-extension-bundle.js
+END
+compile-prolog.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2024/exhibit/trunk/src/webapp/api/extensions/editing/compile-prolog.js
+END
+editing-extension-bundle.css
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2024/exhibit/trunk/src/webapp/api/extensions/editing/editing-extension-bundle.css
+END
+editing-extension-bundle-debug.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2024/exhibit/trunk/src/webapp/api/extensions/editing/editing-extension-bundle-debug.js
+END
+editing-extension.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2024/exhibit/trunk/src/webapp/api/extensions/editing/editing-extension.js
+END
